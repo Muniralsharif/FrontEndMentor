@@ -24,7 +24,7 @@ body {
 
 .container {
   width: 85%;
-  max-width: 375px;
+  max-width: 364.4px;
   min-width: 258.5px;
   margin: auto;
   background-color: hsl(0, 0%, 100%);
@@ -50,7 +50,7 @@ body {
 }
 
 .container__content-title {
-  font-size: 1.3em;
+  font-size: 1.4em;
 }
 
 p.publish-date {
